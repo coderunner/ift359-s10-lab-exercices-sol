@@ -1,0 +1,10 @@
+# Dépendances
+node_modules/
+
+# Sortie de compilation (TypeScript)
+dist/
+
+# Configuration d'éditeurs et OS
+.DS_Store
+Thumbs.db
+.vscode/*
